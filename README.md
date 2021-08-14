@@ -7,14 +7,14 @@
 #### :guitar: guitar teacher
 #### :musical_note: music producer
 #### :sound: sound engineer
-#### :mortar_board: currently learning javaScript/frontEnd developmet in RSSchool
+#### :mortar_board: currently learning javaScript/frontEnd developmet in [RSSchool](https://rs.school/)
 
 
 ## :mailbox_with_mail: Contacts:
-#### telegram: https://t.me/air_seller
-#### instagram: https://www.instagram.com/airseller.music/
-#### vk: https://vk.com/airseller
-#### e-mail: airseller612@gmail.com airseller612@hotmail.com
+- telegram: https://t.me/air_seller
+- instagram: https://www.instagram.com/airseller.music/
+- vk: https://vk.com/airseller
+- e-mail: airseller612@gmail.com airseller612@hotmail.com
 <!-- **discord:** air seller#9360 -->
 <!--
 **air-seller/air-seller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

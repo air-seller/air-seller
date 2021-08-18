@@ -17,7 +17,7 @@
 - telegram: https://t.me/air_seller
 - instagram: https://www.instagram.com/airseller.music/
 - vk: https://vk.com/airseller
-- e-mail: airseller612@gmail.com airseller612@hotmail.com
+- e-mail: airseller612@gmail.com || airseller612@hotmail.com
 <!-- **discord:** air seller#9360 -->
 <!--
 **air-seller/air-seller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

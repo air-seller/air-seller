@@ -1,13 +1,16 @@
 # 👋 Hi there
 
-### my name is Alexander
+**my name is Alexander**
 
 
 ## :grinning: I'm:
-#### :guitar: guitar teacher
-#### :musical_note: music producer
-#### :sound: sound engineer
-#### :mortar_board: currently learning javaScript/frontEnd developmet in [RSSchool](https://rs.school/)
+:guitar: **guitar teacher**
+
+:musical_note: **music producer**
+
+:sound: **sound engineer**
+
+:mortar_board: **currently learning javaScript/frontEnd developmet in [RSSchool](https://rs.school/)**
 
 
 ## :mailbox_with_mail: Contacts:

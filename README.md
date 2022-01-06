@@ -10,7 +10,7 @@
 
 :sound: **sound engineer**
 
-:mortar_board: **currently learning javaScript/frontEnd developmet in [RSSchool](https://rs.school/)**
+:mortar_board: **currently learning web developmet**
 
 
 ## :mailbox_with_mail: Contacts:
